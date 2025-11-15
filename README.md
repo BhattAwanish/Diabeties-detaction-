@@ -99,11 +99,7 @@ You can run the app using:
 
 streamlit run app.py
 
-📷 Project Screenshot
-
-(Place your uploaded screenshot or app preview image here)
-
 👨‍💻 Author
 
 Awanish Bhatt
-Machine Learning & AI Developer
+Machine Learning & AI
